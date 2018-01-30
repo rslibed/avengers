@@ -1,0 +1,17 @@
+.square {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+#second {
+    width: 100px; 
+    height: 100px;
+    border: 1px solid #000;
+}
+
+#first {
+    position: relative;
+    left: 50px;
+}
